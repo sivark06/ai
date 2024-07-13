@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchain-groq
+langchain_groq
+google.generativeai
+langchain-google-genai
