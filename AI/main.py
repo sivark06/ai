@@ -10,12 +10,12 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 #Initialize Model
 """llm = ChatGroq(
     model="llama3-8b-8192",
-    groq_api_key="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"
+    groq_api_key=""
 )"""
 
 llm_gemini = ChatGoogleGenerativeAI(
     model="gemini-pro",
-    google_api_key="AIzaSyD7MQMIz5Kg0l31A5y7vHDFc_E8YENrc7o")
+    google_api_key="")
 
 
 
